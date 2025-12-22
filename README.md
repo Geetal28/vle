@@ -1,7 +1,7 @@
 # Open University VLE Analysis - Data Science Research Project
 This repository contains the implementation and findings of a data science project completed as part of the MSc-level module Data Science Research Methods (L7). The primary objective of the project is to investigate whether the Open University's Virtual Learning Environment (VLE) has a measurable impact on student performance and to build a predictive model to estimate students' academic success based on their interaction with the VLE and demographic characteristics.
 
-##Project Background
+## Project Background
 The Open University is a leading institution in distance education. With the increasing use of virtual learning platforms, there is a growing need to understand how student engagement in such platforms correlates with academic success. This project aims to provide empirical evidence for two fundamental questions:
 
 - Does active use of the VLE lead to higher academic performance among students?
