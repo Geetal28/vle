@@ -10,11 +10,13 @@ The Open University is a leading institution in distance education. With the inc
 The dataset used for this project is the Open University Learning Analytics Dataset (OULAD), which includes anonymized information about students, courses, assessments, and their interactions with the virtual platform.
 
 ## Repository Contents
-  1. ou_vle_project.ipynb
-    A complete Jupyter Notebook including the full data pipeline: loading, cleaning, exploratory data analysis (EDA), modeling, and evaluation.
+  1. ou_vle_project.ipynb:
 
-  2. DSRM_Report.pdf
-    A 25-page academic report summarizing the methodology, visualizations, statistical findings, limitations, and conclusions.
+   A complete Jupyter Notebook including the full data pipeline: loading, cleaning, exploratory data analysis (EDA), modeling, and evaluation.
+
+  2. DSRM_Report.pdf:
+
+   A 25-page academic report summarizing the methodology, visualizations, statistical findings, limitations, and conclusions.
 
   3. Data
     Contains the cleaned and preprocessed data files used for analysis:
